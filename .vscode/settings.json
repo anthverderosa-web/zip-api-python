@@ -5,7 +5,6 @@
         "default": true
     },
     "chat.agentSessionsViewLocation": "view",
-    "python.defaultInterpreterPath": "c:\\Users\\anthv\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
     "@azure.argTenant": "",
     "editor.minimap.showSlider": "always",
     "terminal.integrated.enableMultiLinePasteWarning": "never",
