@@ -1,0 +1,33 @@
+{
+    "workbench.editor.autoLockGroups": {
+        "jsProfileVisualizer.heapsnapshot.table": true,
+        "jsProfileVisualizer.heapprofile.table": true,
+        "default": true
+    },
+    "chat.agentSessionsViewLocation": "view",
+    "python.defaultInterpreterPath": "c:\\Users\\anthv\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+    "@azure.argTenant": "",
+    "editor.minimap.showSlider": "always",
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "security.promptForLocalFileProtocolHandling": false,
+    "security.promptForRemoteFileProtocolHandling": false,
+    "security.restrictUNCAccess": false,
+    "genieai.openai.model": "gpt-4o",
+    "genieai.enableGenerateCommitMessage": false,
+    "genieai.enableConversationHistory": true,
+    "genieai.openai.generateCode-enabled": false,
+    "genieai.promptPrefix.optimize-enabled": false,
+    "genieai.promptPrefix.findProblems-enabled": false,
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.zip": "default",
+        "*.docx": "default"
+    },
+    "editor.minimap.renderCharacters": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "ipynb.experimental.serialization": false,
+    "ipynb.pasteImagesAsAttachments.enabled": false,
+    "terminal.integrated.stickyScroll.enabled": false,
+    "security.workspace.trust.untrustedFiles": "open"
+}
