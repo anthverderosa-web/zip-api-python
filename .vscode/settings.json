@@ -28,5 +28,13 @@
     "ipynb.experimental.serialization": false,
     "ipynb.pasteImagesAsAttachments.enabled": false,
     "terminal.integrated.stickyScroll.enabled": false,
-    "security.workspace.trust.untrustedFiles": "open"
+    "security.workspace.trust.untrustedFiles": "open",
+    "containers.commands.build": "${containerCommand} build --pull --rm -f \"${dockerfile}\" -t ${tag} \"${context}\"",
+    "containers.commands.composeDown": [
+        
+        {
+            "label": "Compose Down",
+            "template": "${composeCommand} ${configurationFile} down"
+        }
+    ]
 }
